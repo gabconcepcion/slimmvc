@@ -1,4 +1,4 @@
 slimmvc
 =======
 
-on top of [https://github.com/revuls/SlimMVC] [SlimMVC]
+on top of [SlimMVC] (https://github.com/revuls/SlimMVC)
